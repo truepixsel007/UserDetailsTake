@@ -1,16 +1,12 @@
+
 # choose_profile_img
 
-A new Flutter project.
+user pofile detail and choose image
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEgQiHT6G1d1gVsaR78GFMhCJVaeUEOOOTPa4rm3Q3AcdjoyLkxm-Kgxin2hvESuPVuTGujHnk7ZNruG9VrZ7FF848Fmiw0sGLWRjX6RUR7wz6yZ3PD04Cs4SHSTvoTNTD2nzpfrrJ2K92QpBNTRP4_a8rqFBF0XNlTl_JDt-iaE3ck1MsLVowSiApHmB8w)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEimrdMvQCvn_7ZndcJCHb2gcANKkjjxPBLzNZKVrkE6xZBQ67ng4HUnV903hazHw2AcqG0BopE8Sm9ssbpti5LEnJJsi2O8zZW7md_McvzihgeyP6D78w5MrLHW6yXU9MZtx6wxKkS5uYzNm_CrVqdtS_CfvHgjx41Lmn4tCriuslDYLtBJbkGKOvar_lI)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
